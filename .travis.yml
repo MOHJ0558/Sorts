@@ -1,2 +1,4 @@
 language: c
-script: gcc selectionsort.c -o selectionsort
+script:
+    - gcc SelectionSort.c -o Selectionort
+    - ./SelectionSort
