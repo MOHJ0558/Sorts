@@ -1,4 +1,3 @@
 language: c
 script:
     - gcc SelectionSort.c -o SelectionSort -std=c99
-    - ./SelectionSort
