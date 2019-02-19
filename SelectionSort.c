@@ -22,3 +22,20 @@ void swap0(int *a, int *b){
     *a = *b;
     *b = tmp;
 }
+int main(){
+    int l;
+    printf("length:\n> ");
+    scanf("%d", &l);
+    int arr[l];
+    printf("input %d numbers:\n", l);
+    for(int i = 0; i < l; i++){
+        printf("%d> ", i + 1);
+        scanf("%d", &arr[i]);
+    }
+    selectionsort(arr, l);
+    printf("after sorted:\n");
+    for(int i = 0; i < l; i++){
+        printf("(%d): %d\n", i + 1, arr[i]);
+    }
+    return 0;
+}
