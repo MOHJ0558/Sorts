@@ -1,2 +1,10 @@
 # Sorts  [![Build Status](https://travis-ci.org/MOHJ0558/Sorts.svg?branch=master)](https://travis-ci.org/MOHJ0558/Sorts) [![GitHub](https://img.shields.io/github/license/mohj0558/sorts.svg?color=brightgreen)](https://github.com/MOHJ0558/Sorts/blob/master/LICENSE) ![GitHub stars](https://img.shields.io/github/stars/mohj0558/sorts.svg?style=social)
 Sort algorithms.
+// Chinese
+这是一个简单的排序算法集合。目前包括下面几种排序算法：
+  • 选择排序
+希望更多的朋友们能够再贡献和改良此算法集合。
+// English
+This is a simple collection of sorting algorithms. The following sorting algorithms are currently included:
+  • SelectionSort
+I hope more friends can contribute and improve this sort of sorting algorithm.
