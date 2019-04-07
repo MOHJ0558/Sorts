@@ -7,4 +7,4 @@
 // *English*  
 This is a simple collection of sorting algorithms. The following sorting algorithms are currently included:  
 &nbsp;&nbsp;&nbsp;&nbsp;• **SelectionSort**  
-I hope more friends can contribute and improve this sort of sorting algorithm.  
+I hope more friends can contribute and improve this collection of sorting algorithm.  
