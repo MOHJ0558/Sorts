@@ -1,7 +1,7 @@
 #include <iostream>
-#include "bbs.h"
-#include "qks.h"
-#include "sls.h"
+#include "BubbleSort.h"
+#include "QuickSort.h"
+#include "SelectionSort.h"
 using namespace std;
 int main(){
 	int l, ch;
