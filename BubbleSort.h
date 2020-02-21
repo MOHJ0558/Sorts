@@ -1,4 +1,5 @@
-#include <iostream>
+#ifndef bbs_h
+#define bbs_h
 using namespace std;
 void BBS(double arr[], int len){
 	for(int i = 0; i < len - 1; i++){//轮数 
@@ -11,3 +12,4 @@ void BBS(double arr[], int len){
 		}
 	}
 }
+#endif
