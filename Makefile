@@ -1,5 +1,4 @@
-SRCS=$(wildcard *.c) $(wildcard *.cpp)
-EXES=$(basename $(SRCS))
+EXES=sort
 all:$(EXES)
 clean:
 	-rm $(EXES)
