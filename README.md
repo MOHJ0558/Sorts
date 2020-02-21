@@ -1,4 +1,4 @@
-# Sorts  [![Build Status](https://travis-ci.org/MOHJ0558/Sorts.svg?branch=master)](https://travis-ci.org/MOHJ0558/Sorts) [![GitHub license](https://img.shields.io/github/license/mohj0558/sorts.svg?color=blue)](https://github.com/MOHJ0558/Sorts/blob/master/LICENSE) ![Repository name](https://img.shields.io/badge/repository--name-Sorts-orange.svg) ![owner](https://img.shields.io/badge/owner-MOHJ0558-yellow.svg) ![GitHub stars](https://img.shields.io/github/stars/mohj0558/sorts.svg?style=social)
+# Sorts  [![Build Status](https://travis-ci.org/MOHJ0558/Sorts.svg?branch=master)](https://travis-ci.org/MOHJ0558/Sorts) [![GitHub license](https://img.shields.io/github/license/mohj0558/sorts.svg?color=blue)](https://github.com/MOHJ0558/Sorts/blob/master/LICENSE)
 // *汉语*  
 这是一个简单的排序算法集合。目前包括下面几种排序算法：  
 &nbsp;&nbsp;&nbsp;&nbsp;• **选择排序**  
