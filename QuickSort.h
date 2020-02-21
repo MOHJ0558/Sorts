@@ -1,4 +1,5 @@
-#include <iostream>
+#ifndef qks_h
+#define qks_h
 using namespace std;
 void QKS(double arr[], int left, int right){
 	if(left >= right)
@@ -24,3 +25,4 @@ void QKS(double arr[], int left, int right){
 	QKS(arr, left, i-1);
 	QKS(arr, i + 1, right);
 }
+#endif
