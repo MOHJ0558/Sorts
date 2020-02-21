@@ -2,5 +2,5 @@ SRCS=$(wildcard *.c) $(wildcard *.cpp)
 EXES=$(basename $(SRCS))
 all:$(EXES)
 clean:
-    -rm $(EXES)
+	-rm $(EXES)
 .PHONY:all clean
