@@ -1,4 +1,5 @@
-#include <iostream>
+#ifndef sls_h
+#define sls_h
 using namespace std;
 void SLS(double arr[], int len){
 	int minidx, temp;
@@ -13,3 +14,4 @@ void SLS(double arr[], int len){
 		arr[minidx] = temp;
 	}
 }
+#endif
